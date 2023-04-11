@@ -2,6 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
+venv/
 analyses/old/
 analyses/plots/
 nam/
